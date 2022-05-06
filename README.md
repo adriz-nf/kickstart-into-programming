@@ -1,4 +1,4 @@
-# kickstart-into-programming
+# Think like a computer, talk like a computer
 This repo contains material to for people interested in getting started with programming. The objective is to introduce the programming mindset and offer a quick introduction into coding in python.
 
 In this repository we will cover the general concepts needed to get into coding in python. You do not need to install anything on your computer in order to work with the material as we will be using the browser based [Google Colaboratory](https://colab.research.google.com/).
