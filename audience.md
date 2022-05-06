@@ -1,7 +1,7 @@
 # Why should you particiate in this course?
 This course is designed to help build foundational skills and give fundamental knowlegde of computer programming. It is to be thought of as a one day stand alone program that will provide a introduction into programming rather than any expert knowldge or skill building.
 
-# Who is thos course for?
+# Who is this course for?
 The intented audience of this course is participants in the proTechnicalle program. 
 This means young adults who are intested in learning about MINT/STEM topics.  
 The assumption is that the audience bring good understanding of high school level math and physics.  
