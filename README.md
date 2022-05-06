@@ -33,7 +33,7 @@ There should be no barriers left preventing participants from getting started in
 Read up on the "correct" way to write python code:
 - [PEP8: Coding Best Practices](Coding_best_practices.ipynb)
 
-Do a online course
+Do an online course
 - [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Onemonth](https://onemonth.com/github/students)  
 
