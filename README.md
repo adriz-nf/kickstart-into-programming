@@ -36,6 +36,8 @@ Read up on the "correct" way to write python code:
 Do an online course
 - [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Onemonth](https://onemonth.com/github/students)  
+Or learn about Java
+- [Educative](https://www.educative.io/courses/guide-to-java-programming)
 
 - Create your [Github account](https://github.com/signup) and sign up for the [GitHub Student Developer Pack](https://education.github.com/pack) to get a free 3 months of datacamp or 30 days at onemonth through Github Student pack
 
