@@ -24,10 +24,10 @@ There should be no barriers left preventing participants from getting started in
 
 # How to Start
 ## Learn the fundamentals of python programming:
-- [Variables and types](basics/1_Python_Variables_Types.ipynb)
-- [If/then/else and for loops](basics/2_Python_If_Else_Loops.ipynb)
-- [Lists and Dictionaries](basics/3_Python_Lists_Dictionaries.ipynb)
-- [How to write a function, function arguments and so on](basics/4_Python_Functions.ipynb)
+- [Variables and types](Basics/1_Python_Variables_Types.ipynb)
+- [If/then/else and for loops](Basics/2_Python_If_Else_Loops.ipynb)
+- [Lists and Dictionaries](Basics/3_Python_Lists_Dictionaries.ipynb)
+- [How to write a function, function arguments and so on](Basics/4_Python_Functions.ipynb)
 
 ## Next Steps
 Read up on the "correct" way to write python code:
